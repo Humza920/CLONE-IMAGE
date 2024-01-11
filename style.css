@@ -1,0 +1,10 @@
+#parent{ font-size: 50px; text-align: center;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color: rgb(126, 114, 97); text-shadow: 7px 7px 7px  #000; border: 5px outset rgb(255, 255, 255);} 
+div{border: 6px solid rgb(105, 104, 104);
+     max-width: 1750px;
+     min-width: 1500px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);}
+li{display: inline; font-size:x-large; margin-right: 100px;}   
+ul{text-align: center; margin-top: 50px;border: 5px outset white; background-color: rgb(126, 114, 97);text-shadow: 3px 3px 3px rgb(0, 0, 0) ;} 
+#one{margin-left: 75px; border: 13px outset  rgb(221, 217, 212);}
+#two{margin-left: 140px; border: 13px outset rgb(221, 217, 212) ;} 
+#three{margin-left: 125px; border: 13px outset rgb(221, 217, 212);}
+#four{font-size: larger; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;  text-shadow: 1px 1px 1px  #f7ecec; font-weight: lighter;}
